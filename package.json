@@ -1,0 +1,23 @@
+{
+  "name": "giantslidegameco.com",
+  "version": "0.0.0",
+  "description": "giantslidegameco.com ====================",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/studioofthemonth/giantslidegameco.com.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "0d451479d60892950bfaf042b770d171efb5a00a",
+  "bugs": {
+    "url": "https://github.com/studioofthemonth/giantslidegameco.com/issues"
+  },
+  "dependencies": {
+    "express": "~3.4.8"
+  }
+}
